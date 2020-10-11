@@ -4,6 +4,7 @@
         "build": "webpack",
         "watch": "webpack --watch",
         "lint": "eslint **/*.{js, jsx} --quiet",
+        "dev": "webpack-dev-server",
         "format": "prettier --write --single-quote --print-width=120 --parser=flow --tab-width=2 \"js/**/*.{js,jsx}\""
     },
     "dependencies": {
@@ -64,9 +65,8 @@
     },
     "name": "complete-intro-to-react",
     "version": "3.0.0",
-    "description": "A Complete Intro to React workshop",
+    "description": "A Complete Intro to React",
     "main": "server.js",
-    "repository": "git@github.com:btholt/complete-intro-to-react.git",
-    "author": "Brian Holt <btholt@gmail.com>",
+    "author": "Anjan Ragh K S <anjanragh@gmail.com>",
     "license": "MIT"
 }
