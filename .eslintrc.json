@@ -6,7 +6,7 @@
         "prettier/react"
     ],
     "plugins": [
-        "flow-type",
+        "flowtype",
         "prettier"
     ],
     "parser": "babel-eslint",
