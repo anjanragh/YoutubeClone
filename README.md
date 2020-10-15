@@ -1,13 +1,19 @@
-# A Complete Intro to React
+# Youtube Clone
 
-Welcome to a complete intro to React! The site actual workshop material for this repo can be found [here][gh-page]. On the master branch you will find the completed project. On the start branch you will find the barebones boilerplater of the project designed to help you get started.
+This started off as being a clone of youtube but for now, I'm using data I scraped for tv shows. So you could call it a netflix clone.
 
-## Contributing
-
-Please contribute, file issues, and make PRs. More than anything I'm sure there are typos abounding.
-
-## License
-
-MIT
-
-[gh-page]: http://btholt.github.io/complete-intro-to-react/
+To run
+- First run
+```
+yarn
+```
+- Open two terminals. On one run
+```
+yarn api
+```
+- The above starts the api that auto generates ratings.
+- On the second terminal, run
+```
+yarn dev
+```
+- The above runs webpack and serves the file on localhost:8080
