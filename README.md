@@ -1,13 +1,8 @@
-# A Complete Intro to React
+# A YoutubeClone
 
-Welcome to a complete intro to React! The site actual workshop material for this repo can be found [here][gh-page]. On the master branch you will find the completed project. On the start branch you will find the barebones boilerplater of the project designed to help you get started.
-
-## Contributing
-
-Please contribute, file issues, and make PRs. More than anything I'm sure there are typos abounding.
+This app lets you play trailers of tv shows. I'd initially wanted it to pull data from Youtube and extract information
+but for now, its more of a netflix clone.
 
 ## License
 
 MIT
-
-[gh-page]: http://btholt.github.io/complete-intro-to-react/
