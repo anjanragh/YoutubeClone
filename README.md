@@ -1,8 +1,26 @@
-# A YoutubeClone
+# Youtube Clone
 
-This app lets you play trailers of tv shows. I'd initially wanted it to pull data from Youtube and extract information
-but for now, its more of a netflix clone.
+This started off as being a clone of youtube but for now, I'm using data I scraped for tv shows. So you could call it a netflix clone.
 
-## License
+To run
 
-MIT
+- First run
+
+```
+yarn
+```
+
+- Open two terminals. On one run
+
+```
+yarn api
+```
+
+- The above starts the api that auto generates ratings.
+- On the second terminal, run
+
+```
+yarn dev
+```
+
+- The above runs webpack and serves the file on localhost:8080
