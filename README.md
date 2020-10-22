@@ -24,3 +24,5 @@ yarn dev
 ```
 
 - The above runs webpack and serves the file on localhost:8080
+
+- The code is also running [here](https://happy-turing-0ede7c.netlify.app/)
